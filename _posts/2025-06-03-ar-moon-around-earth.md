@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "用 ARCore + Sceneform 实现月球绕地球转动"
+title: "AR Moon Around Earth"
 date: 2025-06-03
+categories: [AR]
+tags: [ARCore, Sceneform, Android]
 ---
+
 
 最近看了Google开发者大会。其中介绍到AndroidXR技术。于是想，是不是可以写个demo实现一下？
 
