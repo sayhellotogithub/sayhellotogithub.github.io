@@ -7,3 +7,4 @@ plugins:
 
 author: sayhellotogithub
 show_downloads: false
+baseurl: "" # the subpath of your site, e.g. /blog
